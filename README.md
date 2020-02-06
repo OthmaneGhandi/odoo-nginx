@@ -16,7 +16,8 @@ Inside /etc/nginx/sites-available/your_domain.conf:
 
 
 ```
-port 8069 => the port that your Odoo server is using
-www.your_domain.com your_domain.com => You real domain
+port 8069           => the port that your Odoo server is using
+www.your_domain.com => Your real domain
+your_domain.com     => Your real domain
 ```
 
