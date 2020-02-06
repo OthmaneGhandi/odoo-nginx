@@ -4,7 +4,7 @@ You will find some useful files to run Odoo with Nginx
 
 ## Getting Started
 
-To run you Odoo with Nginx you can follow this Tutorial:
+To run your Odoo server with Nginx you can follow this Tutorial:
 
 * [Odoo & Nginx](https://medium.com/@othmane.ghandi/running-odoo-in-https-using-nginx-certbot-90ef2f3e5ccb?source=friends_link&sk=2cda10893058503504401f94c0624187) - Running Odoo with Nginx
 
